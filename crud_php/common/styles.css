@@ -1,0 +1,11 @@
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+button, input {
+    cursor: pointer;
+}
+
+.head {
+    font-weight: bold;
+}
